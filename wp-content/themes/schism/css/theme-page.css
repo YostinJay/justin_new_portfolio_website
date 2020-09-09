@@ -1,0 +1,54 @@
+/**
+@- 1. layout
+**/
+.schism-themepage {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.schism-themepage__hero {
+    width: 100%;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    background: #fff;
+}
+.schism-themepage__hero .button {
+    margin-top: 1rem;
+}
+
+.schism-themepage__inner {
+    padding: 2.5rem;
+    max-width: 60%;
+    box-sizing: border-box;
+}
+@media only screen and (max-width: 768px) {
+    .schism-themepage__inner {
+        max-width: none;
+    }
+}
+.schism-themepage__inner h3 {
+    margin-top: 0;
+}
+
+.schism-themepage__icon {
+    max-width: 80px;
+    border-radius: 6px;
+}
+
+.schism-themepage__col {
+    width: 33.33333333%;
+    padding: 2rem;
+    box-sizing: border-box;
+    text-align: center;
+}
+.schism-themepage__col p {
+    font-size: 14px;
+}
+.schism-themepage__col .button {
+    margin-top: 1rem;
+}
+@media only screen and (max-width: 768px) {
+    .schism-themepage__col {
+        width: 100%;
+    }
+}

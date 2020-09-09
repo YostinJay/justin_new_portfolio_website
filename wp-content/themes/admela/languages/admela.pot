@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PlaceHolder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-28 04:46+0000\n"
+"PO-Revision-Date: 2018-07-24 11:40+0000\n"
+"Last-Translator: admin <sakthi6600@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"Language: en-US"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "It looks like nothing was found at this location. Maybe try a search?"
+
+#: archive.php:144 search.php:121 layout-parts/amblyt.php:374
+msgid "Sorry No Posts Were Found"
+msgstr "Sorry No Posts Were Found"
+
+#: author-bio.php:28 content.php:32 content.php:254 content.php:349 
+#: content.php:428 content.php:512 content.php:693 content.php:757 
+#: layout-parts/amblyt.php:65 layout-parts/amblyt.php:311 
+#: lib/includes/admela-customtemp-tags.php:1812 
+#: lib/includes/admela-customtemp-tags.php:2633 
+#: lib/includes/admela-customtemp-tags.php:2698 
+#: lib/includes/admela-customtemp-tags.php:2934
+msgid "By"
+msgstr "By"
+
+#: comments.php:33 comments.php:60
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:34 comments.php:61
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:35 comments.php:62
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:41
+msgid "submit"
+msgstr "submit"
+
+#: comments.php:42
+msgid "Leave a Reply"
+msgstr "Leave a Reply"
+
+#: comments.php:43
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Leave a Reply to %s"
+
+#: comments.php:44
+msgid "Cancel Reply"
+msgstr "Cancel Reply"
+
+#: comments.php:45
+msgid "Post Comment"
+msgstr "Post Comment"
+
+#: comments.php:47
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "You must be <a href=\"%s\">logged in</a> to post a comment."
+
+#: comments.php:51
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+
+#: comments.php:55
+msgid "Your email address will not be published."
+msgstr "Your email address will not be published."
+
+#: comments.php:57
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+
+#: comments.php:67
+msgid "Comments"
+msgstr "Comments"
+
+#: comments.php:102
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:108
+msgid "Submit Your Comments"
+msgstr "Submit Your Comments"
+
+#: comments.php:111
+msgid "Leave a Comment"
+msgstr "Leave a Comment"
+
+#: content-page.php:95 content-page.php:119 content-page.php:131 
+#: content.php:206 content.php:224 layout-parts/amblyt.php:253 
+#: layout-parts/amblyt.php:271 layout-parts/amblyt.php:279 
+#: lib/includes/admela-customtemp-tags.php:819 
+#: lib/includes/admela-customtemp-tags.php:830 
+#: lib/includes/admela-customtemp-tags.php:987 
+#: lib/includes/admela-customtemp-tags.php:998 
+#: lib/includes/admela-customtemp-tags.php:1253 
+#: lib/includes/admela-customtemp-tags.php:1277 
+#: lib/includes/admela-customtemp-tags.php:1289 
+#: lib/includes/admela-customtemp-tags.php:1365 
+#: lib/includes/admela-customtemp-tags.php:1389 
+#: lib/includes/admela-customtemp-tags.php:1401 
+#: lib/includes/admela-customtemp-tags.php:1485 
+#: lib/includes/admela-customtemp-tags.php:1509 
+#: lib/includes/admela-customtemp-tags.php:1521 
+#: lib/includes/admela-customtemp-tags.php:1618 
+#: lib/includes/admela-customtemp-tags.php:1762 
+#: lib/includes/admela-customtemp-tags.php:1652 
+#: lib/includes/admela-customtemp-tags.php:1757 
+#: lib/includes/admela-customtemp-tags.php:1768 
+#: lib/includes/admela-customtemp-tags.php:1778 
+#: lib/includes/admela-customtemp-tags.php:1904 
+#: lib/includes/admela-customtemp-tags.php:1929 
+#: lib/includes/admela-customtemp-tags.php:1940
+msgid "img"
+msgstr "img"
+
+#: content-page.php:158 content-single.php:68 content.php:73 content.php:276 
+#: content.php:374 content.php:458 content.php:537 content.php:605 
+#: layout-parts/amblyt.php:106 layout-parts/amblyt.php:333
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-page.php:162 content-single.php:72 content.php:77 content.php:280 
+#: content.php:378 content.php:462 content.php:541 content.php:609 
+#: layout-parts/amblyt.php:110 layout-parts/amblyt.php:337
+msgid "Page"
+msgstr "Page"
+
+#: content-single.php:121
+msgid "Facebook"
+msgstr "Facebook"
+
+#: content-single.php:146
+msgid "Twitter"
+msgstr "Twitter"
+
+#: content-single.php:150 content.php:93 layout-parts/amblyt.php:127
+msgid "Click to share"
+msgstr "Click to share"
+
+#: content-single.php:150
+msgid "Google+"
+msgstr "Google+"
+
+#: content-single.php:156
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: content-single.php:165
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: content-single.php:178
+msgid "Buffer"
+msgstr "Buffer"
+
+#: content-single.php:186
+msgid "Pocket"
+msgstr "Pocket"
+
+#: content-single.php:192
+msgid "stumbleupon"
+msgstr "stumbleupon"
+
+#: content-single.php:196
+msgid "Reddit"
+msgstr "Reddit"
+
+#: content-single.php:202
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: content.php:38 content.php:247 content.php:342 content.php:421 
+#: content.php:505 layout-parts/amblyt.php:71 layout-parts/amblyt.php:304 
+#: lib/includes/admela-customtemp-tags.php:1804
+msgid "Featured"
+msgstr "Featured"
+
+#: content.php:47 content.php:333 content.php:412 content.php:496 
+#: content.php:677 content.php:741 layout-parts/amblyt.php:79 
+#: lib/includes/admela-customtemp-tags.php:853 
+#: lib/includes/admela-customtemp-tags.php:1021 
+#: lib/includes/admela-customtemp-tags.php:1795 
+#: lib/includes/admela-customtemp-tags.php:2664
+msgid "In"
+msgstr "In"
+
+#: content.php:57 content.php:260 content.php:355 content.php:434 
+#: content.php:518 content.php:698 content.php:762 layout-parts/amblyt.php:89 
+#: layout-parts/amblyt.php:317 lib/includes/admela-customtemp-tags.php:847 
+#: lib/includes/admela-customtemp-tags.php:1014 
+#: lib/includes/admela-customtemp-tags.php:1818 
+#: lib/includes/admela-customtemp-tags.php:2643 
+#: lib/includes/admela-customtemp-tags.php:2706 
+#: lib/includes/admela-customtemp-tags.php:2938
+msgid "On"
+msgstr "On"
+
+#: functions.php:101
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: functions.php:151
+msgid "Primary Sidebar"
+msgstr "Primary Sidebar"
+
+#: functions.php:153
+msgid "primary sidebar that appears on the Right."
+msgstr "primary sidebar that appears on the Right."
+
+#: functions.php:274
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "on"
+
+#: single.php:76
+msgid "Sorry No Posts were Found..!"
+msgstr "Sorry No Posts were Found..!"
+
+#: search.php:73
+#, php-format
+msgid "Search Results Found For : %s"
+msgstr "Search Results Found For : %s"
+
+#: lib/includes/admela-customtemp-tags.php:48
+msgid "Prev Post"
+msgstr "Prev Post"
+
+#: lib/includes/admela-customtemp-tags.php:52
+msgid "Next Post"
+msgstr "Next Post"
+
+#: lib/includes/admela-customtemp-tags.php:735 
+#: lib/includes/admela-customtemp-tags.php:905
+msgid "You May Also Like"
+msgstr "You May Also Like"
+
+#: lib/includes/admela-customtemp-tags.php:1090
+msgid "&larr; Previous"
+msgstr "&larr; Previous"
+
+#: lib/includes/admela-customtemp-tags.php:1091
+msgid "Next &rarr;"
+msgstr "Next &rarr;"
+
+#: lib/includes/admela-customtemp-tags.php:2653
+msgid "At"
+msgstr "At"
+
+#: lib/includes/admela-customtemp-tags.php:2955
+msgid "sorry no posts matched your criteria"
+msgstr "sorry no posts matched your criteria"
+
+#. Description of the theme
+msgid ""
+"Admela is an incredibly responsive blog theme coded &amp; designed with a "
+"lot of care and love. You can use it for your blogging or any type of site. "
+"It has 6 blog display types, primary color option to match your logo &amp; "
+"website, wide layout,awesome typography ,focus on readability AD,Retina "
+"Ready and many more."
+msgstr ""
+"Admela is an incredibly responsive blog theme coded &amp; designed with a "
+"lot of care and love. You can use it for your blogging or any type of site. "
+"It has 6 blog display types, primary color option to match your logo &amp; "
+"website, wide layout,awesome typography ,focus on readability AD,Retina "
+"Ready and many more."
+
+#. URI of the theme
+msgid "http://userthemes.com/admela/"
+msgstr "http://userthemes.com/admela/"
+
+#. Author of the theme
+msgid "userthemes"
+msgstr "userthemes"
+
+#. Author URI of the theme
+msgid "http://userthemes.com"
+msgstr "http://userthemes.com"

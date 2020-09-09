@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'ibm_plex_serifitalic';
+	src: url('ibmplexserif-italic-webfont.woff2') format('woff2'),
+		 url('ibmplexserif-italic-webfont.woff') format('woff');
+	font-display: swap;
+	font-weight: normal;
+	font-style: normal;
+}

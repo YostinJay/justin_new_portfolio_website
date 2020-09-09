@@ -1,0 +1,744 @@
+# <!=Copyright (C) 2020 Evolve Themes
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Schism 1.0.2\n"
+"Report-Msgid-Bugs-To: https://justevolve.it\n"
+"POT-Creation-Date: 1970-01-01 00:00:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Evolve Themes\n"
+"Language-Team: Evolve <info@justevolve.it>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: Italy\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: comments.php:30
+msgid "Previous"
+msgstr ""
+
+#: comments.php:31
+msgid "Next"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: config/customizer/class-schism-customize.php:40
+msgid "Highlight color"
+msgstr ""
+
+#: config/customizer/class-schism-customize.php:43
+msgid ""
+"The accent color is used to highlight specific parts of the template, in "
+"order to make them stand out compared to the standard text color."
+msgstr ""
+
+#: config/global-functionality.php:24
+msgid "Primary Menu"
+msgstr ""
+
+#: config/global-functionality.php:70
+msgid "Main Widget Area"
+msgstr ""
+
+#: config/global-functionality.php:72
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: config/global-functionality.php:82
+msgid "Footer column 1"
+msgstr ""
+
+#: config/global-functionality.php:84 config/global-functionality.php:96
+#: config/global-functionality.php:108 config/global-functionality.php:120
+msgid "Add widgets here to appear in your footer column."
+msgstr ""
+
+#: config/global-functionality.php:94
+msgid "Footer column 2"
+msgstr ""
+
+#: config/global-functionality.php:106
+msgid "Footer column 3"
+msgstr ""
+
+#: config/global-functionality.php:118
+msgid "Footer column 4"
+msgstr ""
+
+#: config/global-functionality.php:184
+msgid "Skip to content"
+msgstr ""
+
+#: config/global-functionality.php:249
+msgid "Highlight"
+msgstr ""
+
+#: config/global-functionality.php:254
+msgid "Black"
+msgstr ""
+
+#: config/global-functionality.php:259
+msgid "Grey 40"
+msgstr ""
+
+#: config/global-functionality.php:264
+msgid "Grey 95"
+msgstr ""
+
+#: config/global-functionality.php:269
+msgid "White"
+msgstr ""
+
+#: config/theme-page/welcome.php:16
+msgid "Professional themes and plugins for your website"
+msgstr ""
+
+#: config/theme-page/welcome.php:17
+msgid ""
+"Our themes and plugins are designed to help you build your ideas with a "
+"solid code base and are professionally supported by our team."
+msgstr ""
+
+#: config/theme-page/welcome.php:18
+msgid "Browse our catalog"
+msgstr ""
+
+#: config/theme-page/welcome.php:24
+msgid "Layout builder for WordPress"
+msgstr ""
+
+#: config/theme-page/welcome.php:25
+msgid ""
+"Create columns and advanced layouts with an interactive visual composer "
+"designed for the WordPress Block Editor and Gutenberg."
+msgstr ""
+
+#: config/theme-page/welcome.php:26 config/theme-page/welcome.php:33
+#: config/theme-page/welcome.php:40
+msgid "https://wordpress.org"
+msgstr ""
+
+#: config/theme-page/welcome.php:26 config/theme-page/welcome.php:33
+#: config/theme-page/welcome.php:40
+msgid "Download"
+msgstr ""
+
+#: config/theme-page/welcome.php:31
+msgid "Maps for WordPress"
+msgstr ""
+
+#: config/theme-page/welcome.php:32
+msgid ""
+"Add beautiful clickable maps to WordPress and place as many markers as you "
+"like, and customize them with colors and tooltips."
+msgstr ""
+
+#: config/theme-page/welcome.php:38
+msgid "Create truly private pages"
+msgstr ""
+
+#: config/theme-page/welcome.php:39
+msgid ""
+"Create restricted sections of your website that only logged users can "
+"access, and that are completely invisible to search engines."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Schism is a free blog theme with clean type and a unique layout that makes "
+"it perfect for a personal blog."
+msgstr ""
+
+#: config/theme-page.php:34
+msgid "Welcome"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family-instance.php:25
+#: ev-inc/modules/customizer/v1/controls/templates/font-family.php:37
+#: ev-inc/modules/customizer/v1/controls/templates/font-family.php:60
+#: ev-inc/modules/customizer/v1/controls/templates/font-family.php:66
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:23
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:38
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:46
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:17
+msgid "Family"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family-instance.php:33
+msgid "Variant"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family-instance.php:42
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:24
+msgid "Size"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family-instance.php:46
+msgid "Height"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family-instance.php:50
+msgid "Spacing"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family-instance.php:56
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:53
+msgid "Transform"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family-instance.php:58
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:55
+msgid "None"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family-instance.php:59
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:56
+msgid "Uppercase"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family-instance.php:60
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:57
+msgid "Lowercase"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family-instance.php:61
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:58
+msgid "Capitalize"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family.php:16
+msgid "Remove"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family.php:27
+msgid "Label"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family.php:43
+msgid "Variants"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family.php:48
+msgid "Subsets"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family.php:55
+msgid "Kit ID"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/templates/font-family.php:71
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:49
+msgid "Stylesheet URL"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/typography.php:260
+msgid "Give a label to the font family"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/typography.php:284
+msgid "Google Fonts"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/typography.php:289
+msgid "Typekit"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/typography.php:294
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:61
+msgid "Custom"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/typography.php:361
+msgid "Font families"
+msgstr ""
+
+#: ev-inc/modules/customizer/v1/controls/typography.php:373
+msgid "Add font family"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:15
+msgid "Source"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:30
+msgid "Subset"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:55
+msgid "Stack"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:58
+msgid "Sans serif"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:59
+msgid "Serif"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:60
+msgid "Monospace"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:66
+msgid "Custom stack"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:13
+msgid "Full settings"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:13
+msgid "Compact view"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:29
+msgid "Line height"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:34
+msgid "Letter spacing"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:39
+msgid "Color"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:63
+msgid "Decoration"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:65
+msgid "Underline"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:66
+msgid "Overline"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font.php:67
+msgid "Line through"
+msgstr ""
+
+#: ev-inc/modules/layout/v1/templates/page-content.php:130
+#: ev-inc/modules/layout/v2/templates/page-content.php:130
+msgid "Posts navigation"
+msgstr ""
+
+#: ev-inc/modules/layout/v1/templates/page-content.php:191
+#: ev-inc/modules/layout/v2/templates/page-content.php:187
+msgid "Go to the next page"
+msgstr ""
+
+#: ev-inc/modules/layout/v1/templates/page-content.php:209
+#: ev-inc/modules/layout/v2/templates/page-content.php:205
+msgid "Go to the first page"
+msgstr ""
+
+#: ev-inc/modules/layout/v1/templates/page-content.php:230
+#: ev-inc/modules/layout/v2/templates/page-content.php:226
+#. translators: page number
+msgid "<span class=\"meta-nav screen-reader-text\">Page </span>%s"
+msgstr ""
+
+#: ev-inc/modules/layout/v1/templates/page-content.php:236
+#: ev-inc/modules/layout/v2/templates/page-content.php:232
+#. translators: page number
+msgid "Go to page number %s"
+msgstr ""
+
+#: ev-inc/modules/layout/v1/templates/page-content.php:260
+#: ev-inc/modules/layout/v2/templates/page-content.php:256
+msgid "Go to the last page"
+msgstr ""
+
+#: ev-inc/modules/layout/v1/templates/page-content.php:269
+#: ev-inc/modules/layout/v2/templates/page-content.php:265
+msgid "Go to the previous page"
+msgstr ""
+
+#: ev-inc/modules/layout/v1/templates/page-content.php:290
+#: ev-inc/modules/layout/v2/templates/page-content.php:286
+#: templates/post-navigation/post-navigation-template.php:25
+#: templates/post-navigation/post-navigation-template.php:36
+msgid "No title"
+msgstr ""
+
+#: ev-inc/modules/layout/v1/templates/page-content.php:308
+#: ev-inc/modules/layout/v2/templates/page-content.php:304
+msgid "No comments"
+msgstr ""
+
+#: ev-inc/modules/layout/v1/templates/page-content.php:308
+#: ev-inc/modules/layout/v2/templates/page-content.php:304
+msgid "1 comment"
+msgstr ""
+
+#: ev-inc/modules/layout/v1/templates/page-content.php:308
+#: ev-inc/modules/layout/v2/templates/page-content.php:304
+msgid "% comments"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/class-evolvethemes-module-themepage.php:50
+#. translators: %1$s: The number of notices
+msgid "%1$s notice"
+msgid_plural "%1$s notices"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ev-inc/modules/theme-page/v1/class-evolvethemes-module-themepage.php:53
+#. translators: %1$s: The theme name, %2$s: The number of notices
+msgid "About %1$s %2$s"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/class-evolvethemes-module-themepage.php:56
+#: ev-inc/modules/theme-page/v1/class-evolvethemes-module-themepage.php:62
+#. translators: %1$s: The theme name
+msgid "About %1$s"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/helpers/system-status.php:19
+msgid "System status"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/helpers/system-status.php:94
+#: ev-inc/modules/theme-page/v1/helpers/system-status.php:104
+#: ev-inc/modules/theme-page/v1/helpers/system-status.php:138
+msgid "On"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/helpers/system-status.php:94
+#: ev-inc/modules/theme-page/v1/helpers/system-status.php:104
+#: ev-inc/modules/theme-page/v1/helpers/system-status.php:138
+msgid "Off"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/helpers/system-status.php:100
+#. translators: codex page for memory.
+msgid ""
+"We recommend setting memory to at least 64MB. See <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">official WordPress "
+"documentation</a>."
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/helpers/system-status.php:106
+#. translators: codex page for debug.
+msgid ""
+"Debug mode is not suitable for production use, you might want to turn it "
+"off. See <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">official WordPress documentation</a>."
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/helpers/system-status.php:112
+msgid ""
+"Although the theme is compatible with PHP 5.2+, we recommend a minimum PHP "
+"version of 5.6."
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/general.php:20
+#. translators: %1$s: The theme name, %2$s: The theme version number
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:60
+msgid "WordPress environment"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:64
+msgid "WP version:"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:65
+msgid "WP Multisite:"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:66
+msgid "WP memory limit:"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:67
+msgid "WP debug mode:"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:74
+msgid "Server environment"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:78
+msgid "PHP version:"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:79
+msgid "PHP Post Max Size:"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:80
+msgid "PHP Time Limit:"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:81
+msgid "PHP Max Input Vars:"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:82
+msgid "Max Upload Size:"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:89
+msgid "Active plugins"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:107
+msgid "Theme"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:111
+msgid "Version:"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:112
+msgid "Child theme:"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:118
+msgid ""
+"The System Status report helps with troubleshooting issues with your site "
+"and allows to have a clear view over software versions, server settings and "
+"WordPress conifiguration."
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/templates/system-status.php:119
+msgid ""
+"Keep in mind that some of the issues that may arise can be solved on your "
+"own (following the indications provided), while for others it is best to "
+"talk to your host provider directly."
+msgstr ""
+
+#: helpers/blog.php:101 templates/meta/meta-template.php:22
+msgid "in:"
+msgstr ""
+
+#: helpers/page-header.php:24
+msgid "Page not found"
+msgstr ""
+
+#: helpers/page-header.php:105
+msgid "Search results for:"
+msgstr ""
+
+#: helpers/page-header.php:107
+msgid "Author archive:"
+msgstr ""
+
+#: helpers/page-header.php:109
+msgid "Archive:"
+msgstr ""
+
+#: helpers/page-header.php:111
+msgid "Error 404"
+msgstr ""
+
+#: helpers/page-header.php:115
+msgid "Protected"
+msgstr ""
+
+#: helpers/page-header.php:209
+msgid "Written by"
+msgstr ""
+
+#: helpers/sharing.php:23 helpers/sharing.php:31
+msgid "Share"
+msgstr ""
+
+#: helpers/sharing.php:23
+msgid "on Facebook"
+msgstr ""
+
+#: helpers/sharing.php:31
+msgid "on LinkedIn"
+msgstr ""
+
+#: helpers/sharing.php:41
+msgid "Pin"
+msgstr ""
+
+#: helpers/sharing.php:41 helpers/sharing.php:51
+msgid "this item"
+msgstr ""
+
+#: helpers/sharing.php:51
+msgid "Tweet"
+msgstr ""
+
+#: helpers/sharing.php:59
+msgid "Email"
+msgstr ""
+
+#: helpers/sharing.php:59
+msgid "a friend"
+msgstr ""
+
+#: templates/comments/comments-template.php:33
+msgid "Join the discussion"
+msgstr ""
+
+#: templates/comments/comments-template.php:35
+msgid "Read the discussion"
+msgstr ""
+
+#: templates/footer/footer.php:44
+msgid "Designed by"
+msgstr ""
+
+#: templates/footer/footer.php:47
+msgid "and proudly"
+msgstr ""
+
+#: templates/footer/footer.php:50
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: templates/footer/footer.php:51
+msgid "Powered by WordPress"
+msgstr ""
+
+#: templates/header/header.php:19
+msgid "Menu"
+msgstr ""
+
+#: templates/meta/meta-template.php:29
+msgid "Tagged:"
+msgstr ""
+
+#: templates/meta/meta-template.php:36
+msgid "Share on:"
+msgstr ""
+
+#: templates/page-content/404.php:17
+msgid ""
+"We are sorry, but the page you are looking for does not exist. Please check "
+"entered address and try again or go to home page."
+msgstr ""
+
+#: templates/page-content/404.php:18
+msgid "Back to home page"
+msgstr ""
+
+#: templates/page-content/content-loop-search.php:23
+msgid "Didn't you find what you were looking for?"
+msgstr ""
+
+#: templates/page-content/content-loop-search.php:28
+msgid ""
+"We could not find any results for your search. You can give it another try "
+"through the search form below."
+msgstr ""
+
+#: templates/page-content/content.php:28
+#. translators: %s: The post title.
+msgid "Continue reading %s"
+msgstr ""
+
+#: templates/page-content/content.php:35
+msgid "Pages:"
+msgstr ""
+
+#: templates/page-content/content.php:39
+msgid "Page"
+msgstr ""
+
+#: templates/post-navigation/post-navigation-template.php:28
+msgid "Previous article"
+msgstr ""
+
+#: templates/post-navigation/post-navigation-template.php:39
+msgid "Next article"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Schism"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://justevolve.it/downloads/schism/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Evolve Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://justevolve.it"
+msgstr ""
+
+#: ev-inc/modules/blog/v1/helpers/helpers.php:132
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/class-evolvethemes-module-customizer.php:101
+msgctxt "reset color to default"
+msgid "Reset"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:17
+msgctxt "fonts source"
+msgid "Google"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:18
+msgctxt "fonts source"
+msgid "System"
+msgstr ""
+
+#: ev-inc/modules/customizer/v2/controls/templates/font-family.php:19
+msgctxt "fonts source"
+msgid "Custom"
+msgstr ""
+
+#: ev-inc/modules/layout/v1/templates/page-content.php:322
+#: ev-inc/modules/layout/v2/templates/page-content.php:318
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: ev-inc/modules/theme-page/v1/helpers/system-status.php:121
+#. translators: %s: the number of seconds.
+msgctxt "php time limit"
+msgid "%s seconds"
+msgstr ""
+
+#: helpers/page-header.php:63
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: helpers/page-header.php:65
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: helpers/page-header.php:67
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: templates/footer/footer.php:36
+#. translators: Copyright date format, see https:www.php.net/date
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
