@@ -20,6 +20,7 @@ if( class_exists( 'Bitly' ) ) {
  * jetpack_bitly_og_tag
  *
  * @return null
+ */
 function jetpack_bitly_og_tag() {
 	if( has_filter( 'wp_head', 'jetpack_og_tags') === false ) {
 		// Add the bitly part again back if we don't have any jetpack_og_tags added
